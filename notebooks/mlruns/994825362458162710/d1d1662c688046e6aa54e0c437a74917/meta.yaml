@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Users/henta/Bureau/3%20ing/MLOPS/gold-price-prediction/notebooks/mlruns/994825362458162710/d1d1662c688046e6aa54e0c437a74917/artifacts
+end_time: 1734378754657
+entry_point_name: ''
+experiment_id: '994825362458162710'
+lifecycle_stage: active
+run_id: d1d1662c688046e6aa54e0c437a74917
+run_name: LSTM Model
+run_uuid: d1d1662c688046e6aa54e0c437a74917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734378735218
+status: 4
+tags: []
+user_id: henta

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Users/henta/Bureau/3%20ing/MLOPS/gold-price-prediction/notebooks/mlruns/994825362458162710/84be7465768748618fda030ebe79880e/artifacts
+end_time: 1734378788448
+entry_point_name: ''
+experiment_id: '994825362458162710'
+lifecycle_stage: active
+run_id: 84be7465768748618fda030ebe79880e
+run_name: Random Forest
+run_uuid: 84be7465768748618fda030ebe79880e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734378783087
+status: 3
+tags: []
+user_id: henta

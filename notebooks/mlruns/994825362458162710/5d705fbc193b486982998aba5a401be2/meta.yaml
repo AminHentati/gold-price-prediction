@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Users/henta/Bureau/3%20ing/MLOPS/gold-price-prediction/notebooks/mlruns/994825362458162710/5d705fbc193b486982998aba5a401be2/artifacts
+end_time: 1734378797531
+entry_point_name: ''
+experiment_id: '994825362458162710'
+lifecycle_stage: active
+run_id: 5d705fbc193b486982998aba5a401be2
+run_name: popular-goose-8
+run_uuid: 5d705fbc193b486982998aba5a401be2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734378797204
+status: 3
+tags: []
+user_id: henta

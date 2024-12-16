@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Users/henta/Bureau/3%20ing/MLOPS/gold-price-prediction/notebooks/mlruns/994825362458162710/6d446ab15b1c4409adf3ec3aa8aadfa7/artifacts
+end_time: 1734378783079
+entry_point_name: ''
+experiment_id: '994825362458162710'
+lifecycle_stage: active
+run_id: 6d446ab15b1c4409adf3ec3aa8aadfa7
+run_name: Decision Tree
+run_uuid: 6d446ab15b1c4409adf3ec3aa8aadfa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734378779025
+status: 3
+tags: []
+user_id: henta

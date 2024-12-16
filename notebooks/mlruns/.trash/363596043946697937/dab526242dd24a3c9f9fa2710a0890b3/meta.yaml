@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Users/henta/Bureau/3%20ing/MLOPS/gold-price-prediction/notebooks/mlruns/363596043946697937/dab526242dd24a3c9f9fa2710a0890b3/artifacts
+deleted_time: 1734379591814
+end_time: 1734377867818
+entry_point_name: ''
+experiment_id: '363596043946697937'
+lifecycle_stage: deleted
+run_id: dab526242dd24a3c9f9fa2710a0890b3
+run_name: Traditional ML Models
+run_uuid: dab526242dd24a3c9f9fa2710a0890b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734377867669
+status: 4
+tags: []
+user_id: henta

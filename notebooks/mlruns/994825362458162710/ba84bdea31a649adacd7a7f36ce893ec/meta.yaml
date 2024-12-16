@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Users/henta/Bureau/3%20ing/MLOPS/gold-price-prediction/notebooks/mlruns/994825362458162710/ba84bdea31a649adacd7a7f36ce893ec/artifacts
+end_time: 1734378761184
+entry_point_name: ''
+experiment_id: '994825362458162710'
+lifecycle_stage: active
+run_id: ba84bdea31a649adacd7a7f36ce893ec
+run_name: Linear Regression
+run_uuid: ba84bdea31a649adacd7a7f36ce893ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734378761116
+status: 4
+tags: []
+user_id: henta

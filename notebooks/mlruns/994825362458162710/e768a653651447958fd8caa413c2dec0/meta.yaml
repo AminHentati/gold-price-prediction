@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Users/henta/Bureau/3%20ing/MLOPS/gold-price-prediction/notebooks/mlruns/994825362458162710/e768a653651447958fd8caa413c2dec0/artifacts
+end_time: 1734378735208
+entry_point_name: ''
+experiment_id: '994825362458162710'
+lifecycle_stage: active
+run_id: e768a653651447958fd8caa413c2dec0
+run_name: learned-crow-996
+run_uuid: e768a653651447958fd8caa413c2dec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734378315289
+status: 3
+tags: []
+user_id: henta

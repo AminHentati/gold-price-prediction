@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Users/henta/Bureau/3%20ing/MLOPS/gold-price-prediction/notebooks/mlruns/994825362458162710/39db143ef3b2424fb97597acb9c2fc8e/artifacts
+end_time: 1734378792945
+entry_point_name: ''
+experiment_id: '994825362458162710'
+lifecycle_stage: active
+run_id: 39db143ef3b2424fb97597acb9c2fc8e
+run_name: Gradient Boosting
+run_uuid: 39db143ef3b2424fb97597acb9c2fc8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734378788458
+status: 3
+tags: []
+user_id: henta
