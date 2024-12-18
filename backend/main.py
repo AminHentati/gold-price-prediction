@@ -11,6 +11,10 @@ os.environ["MLFLOW_TRACKING_USERNAME"] = "hentatiamin0"
 os.environ["MLFLOW_TRACKING_PASSWORD"] = "a0fb37da71b9753d88c2059e20e9a1c656209fc8"
 
 mlflow.set_tracking_uri("https://dagshub.com/hentatiamin0/gold-price-prediction.mlflow")
+import os
+
+print("Username:", os.getenv("MLFLOW_TRACKING_USERNAME"))
+print("Token:", os.getenv("MLFLOW_TRACKING_PASSWORD"))
 
 # Initialize FastAPI
 app = FastAPI()
